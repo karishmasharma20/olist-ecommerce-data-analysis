@@ -37,13 +37,13 @@ This page shows the overall business performance including orders sales delivery
 
 This page focuses on seller performance shipping limit breaches and delivery time across different stages
 
-![Seller and Logistics Performance](seller-logistics.png)
+![Seller and Logistics Performance](seller.png)
 
 ### Customer and SLA Risk
 
 This page shows customer reviews and how review scores vary across different delivery delay groups
 
-![Customer and SLA Risk](customer-risk.png)
+![Customer and SLA Risk](customer.png)
 
 ## Key Findings
 
